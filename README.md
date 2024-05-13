@@ -1,17 +1,19 @@
 
 # Angular-Routing
-#Angular Routing Project
-#Overview
-This project is an Angular application that demonstrates the implementation of routing to create a single-page application (SPA).
-Angular routing allows seamless navigation between different views/components without full-page reloads, providing a smooth user experience.
 
-#Key Concepts
+<h1>Angular Routing Project<h1/>
+
+ <h3>Overview</h3>
+<p>This project is an Angular application that demonstrates the implementation of routing to create a single-page application (SPA).
+Angular routing allows seamless navigation between different views/components without full-page reloads, providing a smooth user experience.</p>
+
+ <h3>Key Concepts</h3>
 Routes: Define routes in the application to map specific URLs to corresponding components.
 RouterOutlet: Placeholder where the routed component views are rendered.
 RouterModule: Module provided by Angular that provides routing functionality.
 Router: Service used to navigate between different routes programmatically.
 
-##Getting Started
+<h3>Getting Started</h3>
 To run the project locally, follow these steps:
 
 Clone the repository: git clone https://github.com/habibamohamed119/Angular-Routing.git
